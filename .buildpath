@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="lib" path=".metadata/.mylyn/repositories.xml.zip"/>
+	<buildpathentry kind="lib" path="images/animated-css3-social-buttons.zip"/>
+	<buildpathentry kind="lib" path="images/coldplay-hymn-for-the-weekend-2016_english-1279926.zip"/>
+	<buildpathentry kind="lib" path="images/coldplay-hymn-for-the-weekend-2016_HI_english-1279529.zip"/>
+	<buildpathentry kind="lib" path="images/icons-css3-transitions-source.zip"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
